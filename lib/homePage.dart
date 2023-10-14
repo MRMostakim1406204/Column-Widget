@@ -19,6 +19,9 @@ class HomePage extends StatelessWidget{
               child: Text('MR Mostakim'),
             ),
             Container(
+              height: 100,
+              width: 200,
+              alignment: Alignment.center,
                padding: EdgeInsets.all(20),
               color: Colors.redAccent,
               child: Text('MR Mostakim'),
